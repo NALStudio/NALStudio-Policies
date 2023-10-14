@@ -8,7 +8,7 @@ If this were to change in the future, this document will be updated to reflect t
 Kotisataman Niko does not currently request any app permissions from the operating system ran.
 
 ### Contacting us
-This privacy policy will be updated to reflect any changes that might come from any future updates.
+This privacy policy will be updated to reflect any changes made in any future updates.
 
 If there are any questions, or whether one wants to report any misinformation on this document, NALStudio can be contacted using the following email: `nalstudio.help@gmail.com`
 
